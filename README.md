@@ -45,6 +45,9 @@ Notes
 
 Aucune installation, aucune inscription dans le registre.
 
+<img width="1917" height="650" alt="Capture d&#39;écran 2026-09-25 152435" src="https://github.com/user-attachments/assets/6eca1d33-00c0-4c77-8428-f55377d1f030" />
+
+
 English : 
 
 This folder is self-contained: copy it as-is to a USB drive or another disk and run Convertissor.exe.

@@ -9,7 +9,7 @@ disque et lancez Convertissor.exe.
 
 Contenu
 -------
-Convertissor.exe      application (interface graphique)
+Convertissor.exe      application en rust (interface graphique)
 ffmpeg / ffprobe /
 ffplay.exe            conversion et lecture audio/vidéo
 yt-dlp.exe            téléchargement depuis une URL
